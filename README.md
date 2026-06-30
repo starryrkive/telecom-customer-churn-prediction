@@ -66,10 +66,6 @@ Interrogating the model's coefficients revealed the core operational pain points
 
 ## Installation and Reproduction
 
-1. **Clone the repository:**
 ```bash
    git clone [https://github.com/starryrkive/telecom-customer-churn-prediction.git](https://github.com/starryrkive/telecom-customer-churn-prediction.git)
    cd telecom-customer-churn-prediction
-   python -m venv ml_env
-   source ml_env/bin/activate
-   pip install pandas scikit-learn matplotlib seaborn notebook ipykernel
